@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  # 🌐 Personal Portfolio Website
+=======
+# 🌐 Personal Portfolio Website
+>>>>>>> 25abb642a78887a688e634e5bf5744f4f5a5c4df
 
 ## 📌 Overview
 
@@ -126,9 +130,12 @@ Akash Rajan
 
 Aspiring Data Analyst | SQL | Power BI | Excel | Python | Web Development
 
+<<<<<<< HEAD
 ---
 
 ## ⭐ Support
 
+=======
+>>>>>>> 25abb642a78887a688e634e5bf5744f4f5a5c4df
 If you found this project useful, please consider giving it a star on GitHub.
 
